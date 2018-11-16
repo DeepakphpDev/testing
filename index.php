@@ -19,6 +19,7 @@ $(document).ready(function(){
 </script>
 </head>
 <body>
+<div>Shahbaz Khan</div>
 <div id="foo" width="500" style="background-color:green"><button id="bar">Clik</button></div>
 </body>
 </html>
