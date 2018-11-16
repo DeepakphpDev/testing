@@ -20,7 +20,11 @@ $(document).ready(function(){
 </head>
 <body>
 <div>Shahbaz Khan</div>
+<<<<<<< HEAD
 <div>Hello</div>
+=======
+<div>Shahbaz Khan</div>
+>>>>>>> 8bd999f8436ad13fa820f8739b07cdbeb45d22f7
 <div id="foo" width="500" style="background-color:green"><button id="bar">Clik</button></div>
 </body>
 </html>
