@@ -12,7 +12,7 @@ $(document).ready(function(){
 	$("#bar").click(function(e) {
 	   // mouse click on button 'bar'
 	   e.stopPropagation();
-	   alert('mouse click on button');
+	   alert('mouses click on button');
 	   
 	});
 });  
